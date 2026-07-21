@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0062_000-X.yaml, hash: 'sha256:3d60463d886bbf275f0eb8e431065c63bdf1dee4d6ae1a5fca6d475697999f21'}
+  - {seq: 0, filename: KR6c0062_000-X.yaml, hash: 'sha256:c4d077fb8b233981bf383ea957cb8fa96cfbea9d50e2944dc370fd21eb622888'}
   - {seq: 1, filename: KR6c0062_001-X.yaml, hash: 'sha256:5f8483f80f272caffeb289d553b68887b4346fc6c768766d8070bae50691eece'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0062_000-X.markers.yaml, hash: 'sha256:093c6fc1acbfde74e109bfdd2048215282327cb3a0d21a95615b3c7cbb11d920'}
+  - {seq: 0, role: markers, filename: assets/KR6c0062_000-X.markers.yaml, hash: 'sha256:f5d6db3db7081efc331edf96dc9bdfc5533b2971e27d46c012f362e08eb2545c'}
   - {seq: 1, role: markers, filename: assets/KR6c0062_001-X.markers.yaml, hash: 'sha256:2554306e62bb3493d806db8b28fce7b268423eb60518e029308924a6543c7d9e'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0062_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 474-A 刻金剛決疑題辭
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0062_X_000-mulu-2
     span:
-    - front
+    - body
     - 417
     - 417
   label: 金剛決疑
@@ -55,4 +55,4 @@ table_of_contents:
   label: 金剛決疑
   type: juan
   level: 1
-hash: sha256:e4a95afe7865a44b796c3ba1b5a0e23a10458f609e9fb697147c1a3b17168074
+hash: sha256:11d18df7e929ba4c4d3ca100cd68bc93b8639d0ccb1d9d1d7240a4c3c4c8ff21

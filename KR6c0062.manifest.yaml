@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0062_000.yaml, hash: 'sha256:79793ad0328969b40230e868379dedc588afe7bc94d10fb76c7c9f2b254077b8'}
+  - {seq: 0, filename: KR6c0062_000.yaml, hash: 'sha256:9997fa02ec66a3b2118e4c0b637427628741038d5277e31ee5e5edbf247514e5'}
   - {seq: 1, filename: KR6c0062_001.yaml, hash: 'sha256:fa95abe884a42faf4886846c191c7270227b794f61b54fca27b3bb18de008de2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0062_000.markers.yaml, hash: 'sha256:ef74ed0801ba2e17309bab1426857e447a71a19fbb79bf50c7f63d3d7423c879'}
+  - {seq: 0, role: markers, filename: assets/KR6c0062_000.markers.yaml, hash: 'sha256:40fee009a13683bbcf5779e185bfa35c0f86a299e1a85b6a01d4059d7eac41a4'}
   - {seq: 1, role: markers, filename: assets/KR6c0062_001.markers.yaml, hash: 'sha256:fa29220fc0364c51d632186d9964b08602e2b2a092cf66b874f32dc028797610'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0062_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 474-A 刻金剛決疑題辭
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0062_X_000-mulu-2
     span:
-    - front
+    - body
     - 417
     - 417
   label: 金剛決疑
@@ -57,7 +57,7 @@ table_of_contents:
   label: 金剛決疑
   type: juan
   level: 1
-hash: sha256:c25a9fcaef6f268072a9ce119f27d4136acbeb6a7dbf6178458f3956190f589a
+hash: sha256:6f4d196c89379e517b592072eac298f80145adbc904ff43e1cdfb82af1fc1d15
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
